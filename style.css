@@ -27,7 +27,7 @@ h2, h3{
 
 
 p{
-  margin: 40px;
+  margin: 40px auto;
   line-height: 20px;
  }
 
@@ -49,9 +49,9 @@ li a{
 .btn-pink{
   background-color:e9b0df;
   color: white;
-  padding: 12px;
+  padding: 10px;
   border-radius: 7px;
-  margin: 50px auto;
+/*  margin: 50px;*/
 }
 
 .btn-pink:hover{
